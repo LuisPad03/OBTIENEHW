@@ -22,3 +22,15 @@ E:\Source\Repos\OBTIENEHW\OBTIENEHW\obj\Debug\OBTIENEHW.vbproj.CoreCompileInputs
 E:\Source\Repos\OBTIENEHW\OBTIENEHW\obj\Debug\OBTIENEHW.exe
 E:\Source\Repos\OBTIENEHW\OBTIENEHW\obj\Debug\OBTIENEHW.xml
 E:\Source\Repos\OBTIENEHW\OBTIENEHW\obj\Debug\OBTIENEHW.pdb
+E:\GitHub\OBTIENEHW\OBTIENEHW\bin\Debug\OBTIENEHW.exe.config
+E:\GitHub\OBTIENEHW\OBTIENEHW\bin\Debug\OBTIENEHW.exe
+E:\GitHub\OBTIENEHW\OBTIENEHW\bin\Debug\OBTIENEHW.pdb
+E:\GitHub\OBTIENEHW\OBTIENEHW\bin\Debug\OBTIENEHW.xml
+E:\GitHub\OBTIENEHW\OBTIENEHW\obj\Debug\OBTIENEHW.vbproj.AssemblyReference.cache
+E:\GitHub\OBTIENEHW\OBTIENEHW\obj\Debug\OBTIENEHW.Form1.resources
+E:\GitHub\OBTIENEHW\OBTIENEHW\obj\Debug\OBTIENEHW.Resources.resources
+E:\GitHub\OBTIENEHW\OBTIENEHW\obj\Debug\OBTIENEHW.vbproj.GenerateResource.cache
+E:\GitHub\OBTIENEHW\OBTIENEHW\obj\Debug\OBTIENEHW.vbproj.CoreCompileInputs.cache
+E:\GitHub\OBTIENEHW\OBTIENEHW\obj\Debug\OBTIENEHW.exe
+E:\GitHub\OBTIENEHW\OBTIENEHW\obj\Debug\OBTIENEHW.xml
+E:\GitHub\OBTIENEHW\OBTIENEHW\obj\Debug\OBTIENEHW.pdb
